@@ -5,7 +5,7 @@ The Parts Manager program allows users to manage an inventory of parts. This Jav
 
 ## Features
 1. Add predefined parts to inventory.
-2. Update exisitng part quantites and prices.
+2. Update exisitng part quantities and prices.
 3. Find a part by its parts number.
 4. Display all parts in the inventory.
 
@@ -16,4 +16,4 @@ The Parts Manager program allows users to manage an inventory of parts. This Jav
 ## How to use 
 1. Compile the program using a java compiler or use the command `javac src/*` in the terminal.
 2. Run the `PartsManager` class in an IDE or use the command `java -cp src PartsManager` in the terminal to see the program's functionality. 
-3. The program will automaticaly demonstrate adding parts, updating quantities and prices, finding parts, and viewing the updated inventory.
+3. The program will automatically demonstrate adding parts, updating quantities and prices, finding parts, and viewing the updated inventory.
